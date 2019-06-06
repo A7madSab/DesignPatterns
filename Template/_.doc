@@ -1,0 +1,8 @@
+Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
+
+1) It breaks down a long complex algorithms into multiple functions in an interface or abstract class
+2) child classes that implemets or extends the parent class can implements it in different order, only a part or in a different way.
+
+
+abstract steps must be implemented by every subclass
+optional steps already have some default implementation, but still can be overridden if needed
