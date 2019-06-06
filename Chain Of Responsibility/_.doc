@@ -1,0 +1,4 @@
+ Chain of Responsibility relies on transforming particular behaviors into stand-alone objects
+  called handlers. In our case, each check should be extracted to its own class with a single
+  method that performs the check. The request, along with its data, is passed to this method
+  as an argument.
