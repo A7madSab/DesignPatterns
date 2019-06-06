@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\DesignPatterns\\Builder\\Builder.csproj",
-      "projectName": "Builder",
-      "projectPath": "C:\\Users\\ahmad\\Desktop\\DesignPatterns\\Builder\\Builder.csproj",
+      "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\DesignPatterns\\Strategy\\Strategy.csproj",
+      "projectName": "Strategy",
+      "projectPath": "C:\\Users\\ahmad\\Desktop\\DesignPatterns\\Strategy\\Strategy.csproj",
       "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmad\\Desktop\\DesignPatterns\\Builder\\obj\\",
+      "outputPath": "C:\\Users\\ahmad\\Desktop\\DesignPatterns\\Strategy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

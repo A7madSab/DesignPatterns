@@ -20,3 +20,14 @@ C:\Users\ahmad\Desktop\DesignPattern\builder\obj\Debug\netcoreapp2.1\Builder.Ass
 C:\Users\ahmad\Desktop\DesignPattern\builder\obj\Debug\netcoreapp2.1\Builder.AssemblyInfo.cs
 C:\Users\ahmad\Desktop\DesignPattern\builder\obj\Debug\netcoreapp2.1\Builder.dll
 C:\Users\ahmad\Desktop\DesignPattern\builder\obj\Debug\netcoreapp2.1\Builder.pdb
+C:\Users\ahmad\Desktop\DesignPatterns\Builder\bin\Debug\netcoreapp2.1\Builder.deps.json
+C:\Users\ahmad\Desktop\DesignPatterns\Builder\bin\Debug\netcoreapp2.1\Builder.runtimeconfig.json
+C:\Users\ahmad\Desktop\DesignPatterns\Builder\bin\Debug\netcoreapp2.1\Builder.runtimeconfig.dev.json
+C:\Users\ahmad\Desktop\DesignPatterns\Builder\bin\Debug\netcoreapp2.1\Builder.dll
+C:\Users\ahmad\Desktop\DesignPatterns\Builder\bin\Debug\netcoreapp2.1\Builder.pdb
+C:\Users\ahmad\Desktop\DesignPatterns\Builder\obj\Debug\netcoreapp2.1\Builder.csprojAssemblyReference.cache
+C:\Users\ahmad\Desktop\DesignPatterns\Builder\obj\Debug\netcoreapp2.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\DesignPatterns\Builder\obj\Debug\netcoreapp2.1\Builder.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\DesignPatterns\Builder\obj\Debug\netcoreapp2.1\Builder.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\DesignPatterns\Builder\obj\Debug\netcoreapp2.1\Builder.dll
+C:\Users\ahmad\Desktop\DesignPatterns\Builder\obj\Debug\netcoreapp2.1\Builder.pdb

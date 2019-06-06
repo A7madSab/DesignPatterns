@@ -1,0 +1,11 @@
+C:\Users\ahmad\Desktop\DesignPatterns\Strategy\obj\Debug\netcoreapp2.1\Strategy.csprojAssemblyReference.cache
+C:\Users\ahmad\Desktop\DesignPatterns\Strategy\obj\Debug\netcoreapp2.1\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\DesignPatterns\Strategy\obj\Debug\netcoreapp2.1\Strategy.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\DesignPatterns\Strategy\obj\Debug\netcoreapp2.1\Strategy.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\DesignPatterns\Strategy\bin\Debug\netcoreapp2.1\Strategy.deps.json
+C:\Users\ahmad\Desktop\DesignPatterns\Strategy\bin\Debug\netcoreapp2.1\Strategy.runtimeconfig.json
+C:\Users\ahmad\Desktop\DesignPatterns\Strategy\bin\Debug\netcoreapp2.1\Strategy.runtimeconfig.dev.json
+C:\Users\ahmad\Desktop\DesignPatterns\Strategy\bin\Debug\netcoreapp2.1\Strategy.dll
+C:\Users\ahmad\Desktop\DesignPatterns\Strategy\bin\Debug\netcoreapp2.1\Strategy.pdb
+C:\Users\ahmad\Desktop\DesignPatterns\Strategy\obj\Debug\netcoreapp2.1\Strategy.dll
+C:\Users\ahmad\Desktop\DesignPatterns\Strategy\obj\Debug\netcoreapp2.1\Strategy.pdb
