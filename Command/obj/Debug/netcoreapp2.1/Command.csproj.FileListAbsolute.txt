@@ -1,0 +1,11 @@
+C:\Users\ahmad\Desktop\DesignPatterns\Command\obj\Debug\netcoreapp2.1\Command.csprojAssemblyReference.cache
+C:\Users\ahmad\Desktop\DesignPatterns\Command\obj\Debug\netcoreapp2.1\Command.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\DesignPatterns\Command\obj\Debug\netcoreapp2.1\Command.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\DesignPatterns\Command\obj\Debug\netcoreapp2.1\Command.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\DesignPatterns\Command\bin\Debug\netcoreapp2.1\Command.deps.json
+C:\Users\ahmad\Desktop\DesignPatterns\Command\bin\Debug\netcoreapp2.1\Command.runtimeconfig.json
+C:\Users\ahmad\Desktop\DesignPatterns\Command\bin\Debug\netcoreapp2.1\Command.runtimeconfig.dev.json
+C:\Users\ahmad\Desktop\DesignPatterns\Command\bin\Debug\netcoreapp2.1\Command.dll
+C:\Users\ahmad\Desktop\DesignPatterns\Command\bin\Debug\netcoreapp2.1\Command.pdb
+C:\Users\ahmad\Desktop\DesignPatterns\Command\obj\Debug\netcoreapp2.1\Command.dll
+C:\Users\ahmad\Desktop\DesignPatterns\Command\obj\Debug\netcoreapp2.1\Command.pdb
