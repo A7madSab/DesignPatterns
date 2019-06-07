@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("typescript")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PrototypeDp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("typescript")]
-[assembly: System.Reflection.AssemblyTitleAttribute("typescript")]
+[assembly: System.Reflection.AssemblyProductAttribute("PrototypeDp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PrototypeDp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

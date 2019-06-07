@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "typescript/1.0.0": {
+      "PrototypeDp/1.0.0": {
         "runtime": {
-          "typescript.dll": {}
+          "PrototypeDp.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "typescript/1.0.0": {
+    "PrototypeDp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
