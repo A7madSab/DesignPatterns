@@ -1,0 +1,7 @@
+Also known as wrapper 
+
+converts the interface of a class into another interface the clients expects 
+
+
+the Adaptor inherits the old class and extends the new class resulting in a class 
+ with both functionalities
