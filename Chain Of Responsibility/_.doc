@@ -2,3 +2,6 @@
   called handlers. In our case, each check should be extracted to its own class with a single
   method that performs the check. The request, along with its data, is passed to this method
   as an argument.
+
+
+  Chain of Responsibility passes a request sequentially along a dynamic chain of potential receivers until one of them handles it.

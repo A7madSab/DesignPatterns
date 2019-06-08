@@ -1,0 +1,9 @@
+the observer defines a one to many relationship btween an observable(many) and the 
+observers(one)
+
+When the observable changes state all it's dependace(observers) are notified and updated
+ automatically
+ 
+
+
+
