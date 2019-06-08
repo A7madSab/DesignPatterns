@@ -1,0 +1,7 @@
+Decorator is a structural design pattern that lets you attach new behaviors to objects
+ by placing these objects inside special wrapper objects that contain the behaviors.
+
+
+Using composition rather than inheritance to share behaviors
+
+the decorator has a omponent and is a component
