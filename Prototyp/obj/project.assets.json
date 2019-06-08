@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\DesignPatterns\\PrototypeDp\\PrototypeDp.csproj",
-      "projectName": "PrototypeDp",
-      "projectPath": "C:\\Users\\ahmad\\Desktop\\DesignPatterns\\PrototypeDp\\PrototypeDp.csproj",
+      "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\DesignPatterns\\Prototyp\\Prototyp.csproj",
+      "projectName": "Prototyp",
+      "projectPath": "C:\\Users\\ahmad\\Desktop\\DesignPatterns\\Prototyp\\Prototyp.csproj",
       "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmad\\Desktop\\DesignPatterns\\PrototypeDp\\obj\\",
+      "outputPath": "C:\\Users\\ahmad\\Desktop\\DesignPatterns\\Prototyp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\ahmad\Desktop\DesignPatterns\Prototyp\bin\Debug\netcoreapp2.1\Prototyp.deps.json
+C:\Users\ahmad\Desktop\DesignPatterns\Prototyp\bin\Debug\netcoreapp2.1\Prototyp.runtimeconfig.json
+C:\Users\ahmad\Desktop\DesignPatterns\Prototyp\bin\Debug\netcoreapp2.1\Prototyp.runtimeconfig.dev.json
+C:\Users\ahmad\Desktop\DesignPatterns\Prototyp\bin\Debug\netcoreapp2.1\Prototyp.dll
+C:\Users\ahmad\Desktop\DesignPatterns\Prototyp\bin\Debug\netcoreapp2.1\Prototyp.pdb
+C:\Users\ahmad\Desktop\DesignPatterns\Prototyp\obj\Debug\netcoreapp2.1\Prototyp.csprojAssemblyReference.cache
+C:\Users\ahmad\Desktop\DesignPatterns\Prototyp\obj\Debug\netcoreapp2.1\Prototyp.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\DesignPatterns\Prototyp\obj\Debug\netcoreapp2.1\Prototyp.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\DesignPatterns\Prototyp\obj\Debug\netcoreapp2.1\Prototyp.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\DesignPatterns\Prototyp\obj\Debug\netcoreapp2.1\Prototyp.dll
+C:\Users\ahmad\Desktop\DesignPatterns\Prototyp\obj\Debug\netcoreapp2.1\Prototyp.pdb

@@ -1,3 +1,15 @@
 Memento is a behavioral design pattern that lets you save and restore the previous state 
  of an object without revealing the details of its implementation.
 
+Without violating encapsulation, capture and externalize an object's internal state so
+ that the object can be returned to this state later.
+
+Promote undo or rollback to full object status.
+
+1- Originator - the object that knows how to save itself.
+
+2- Caretaker - the object that knows why and when the Originator needs to save and
+ restore itself.
+
+3- Memento - the lock box that is written and read by the Originator, and shepherded
+ by the Caretaker.

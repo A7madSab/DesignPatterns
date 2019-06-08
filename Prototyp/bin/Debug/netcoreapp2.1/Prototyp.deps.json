@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "PrototypeDp/1.0.0": {
+      "Prototyp/1.0.0": {
         "runtime": {
-          "PrototypeDp.dll": {}
+          "Prototyp.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "PrototypeDp/1.0.0": {
+    "Prototyp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
